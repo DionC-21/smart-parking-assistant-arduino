@@ -1,2 +1,1 @@
-# smart-parking-assistant-arduino
-Advanced proximity detection system with HC-SR04 ultrasonic sensor, 16x2 LCD display, RGB status LEDs, and dynamic audio alerts. Features moving average filtering and 6-zone distance detection for parking assistance, security, or robotics applications.
+Intelligent line-following robot with ultrasonic obstacle detection, L298N motor control, and LCD status display. Features autonomous navigation, hysteresis-based obstacle avoidance, and modular code architecture for parking automation and educational robotics.
